@@ -13,7 +13,7 @@ Currently exploring MPC and reinforcement learning to bridge classical robotics 
 * 🌍  I'm based in Hyderabad, India
 * ✉️  You can contact me at [saijwalishika@gmail.com](mailto:saijwalishika@gmail.com)
 * 🚀  I'm currently working on [Modular Autonomous Navigation Framework](http://github.com/ishika3011/humbot_ws)
-* 🧠  I'm currently learning Model Predictive Control, High-DOF robots motion planning
+* 🧠  I'm currently learning Model Predictive Control and High-DOF robots motion planning
 * 👥  I'm looking to collaborate on optimization-based and learning-augmented control for autonomous systems.
 * 💬  Ask me about I’ve built robots that navigate both hallways and underwater environments turns out physics is equally unforgiving in both.
 
