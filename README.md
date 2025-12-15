@@ -6,7 +6,6 @@ I design and build **end-to-end robotic systems**, from low-level control and se
 
 -------------------
 
-* 🌍  I'm based in Hyderabad, India
 * 🚀  Currently working on [Modular Autonomous Navigation Framework](http://github.com/ishika3011/humbot_ws)
 * 🧠  Exploring Model Predictive Control and learning-augmented control.
 * 👥  I'm looking to collaborate on optimization-based control for autonomous systems. 
@@ -15,8 +14,7 @@ I design and build **end-to-end robotic systems**, from low-level control and se
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saijwalishika@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishika-saijwal)
 
-
-
+-------------------
 
 <a href="https://github.com/ishika3011" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishika3011&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
