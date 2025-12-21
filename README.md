@@ -16,7 +16,7 @@ I design and build **end-to-end robotic systems**, from low-level control and se
 
 -------------------
 
-<a href="https://github.com/ishika3011" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishika3011&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishika3011&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)
 
 <b>Top Repositories</b>
 
